@@ -1,4 +1,4 @@
-# Audio Classifier
+# Instrument Classifier
 
 ![](images/mfcc.png)
 
