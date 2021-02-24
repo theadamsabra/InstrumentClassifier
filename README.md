@@ -3,7 +3,9 @@
 ![](images/mfcc.png)
 
 ### Overview:
-A supervised classifier used to determine one of ten instruments given to it. The classification methods compared in this data were Support Vector Classifier (SVC) and Gaussian Naive Bayes Classifier as they generalize well for high-featured data. The SVC significantly outperformed the Gaussian Naive Bayes and had a test accuracy of **98%**. You can read the [full procedure](https://github.com/theadamsabra/Audio-Classifier/blob/master/Full%20Procedure.ipynb), if interested. In it, details the three main steps of the project:
+A supervised classifier used to determine one of ten instruments given to it. The classification methods compared in this data were Support Vector Classifier (SVC) and Gaussian Naive Bayes Classifier as they generalize well for high-featured data. The SVC significantly outperformed the Gaussian Naive Bayes and had a test and training accuracy of **98%**. 
+
+You can read the [full procedure](https://github.com/theadamsabra/Audio-Classifier/blob/master/Full%20Procedure.ipynb), if interested. In it, details the three main steps of the project:
 
 - Exploratory Data Analysis and Data Cleaning
 - Model Preparation of Data
